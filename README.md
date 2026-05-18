@@ -7,7 +7,7 @@ Une plateforme de traitement et d'ingénierie de données d'actualités en temps
 ## 👥 Équipe de Développement
 * **Marwa El Omari Alaoui**
 * **Chaimaa Ezzerag**
-* **Sasam (Mr Fruit)**
+
 
 ---
 
